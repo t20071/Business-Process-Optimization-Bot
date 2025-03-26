@@ -61,7 +61,7 @@ streamlit run app.py
 - `streamlit-chat`
 - `python-dotenv`
 
-
-
+# Output
+ ![Chatboat](https://github.com/user-attachments/assets/2be18b28-2df0-4262-bd66-20b4d9e6b405)
 
 
